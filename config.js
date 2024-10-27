@@ -1,19 +1,19 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "STINGER-V4"
-global.dana = "2349037524605"
+global.storename = "Faisal udas"
+global.dana = "923037484167"
 global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "2349037524605"
+global.owner = "923037484167"
 global.namabot = " S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 4҉"
-global.nomorbot = "2349037524605"
-global.namaCreator = "ES TEAMS"
+global.nomorbot = "923037484167"
+global.namaCreator = "Faisal udas"
 global.linkyt = "https://youtube.com/@esteams"
 global.autoJoin = false
-global.antilink = false
+global.antilink = true 
 global.versisc = '4.0.0'
 
 // DELAY JPM
